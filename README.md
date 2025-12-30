@@ -7,3 +7,4 @@ Steps -
 3. Create Javascript file for udf transformation (for reading source file csv into json)
 4. create BigQuery dataset and tables
 5. Run the Dataflow job.
+<img width="474" height="625" alt="image" src="https://github.com/user-attachments/assets/31889cb4-161f-4edd-acc8-186994f9bdc5" />
